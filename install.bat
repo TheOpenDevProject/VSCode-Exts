@@ -1,4 +1,3 @@
-#!/bin/bash
 code --install-extension 13xforever.language-x86-64-assembly
 code --install-extension aaron-bond.better-comments
 code --install-extension abusaidm.html-snippets
